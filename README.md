@@ -30,7 +30,7 @@ This approach relies on a method of reconstructing a time series segment from a 
 
 The reconstruction model we consider is [TadGAN](https://arxiv.org/abs/2009.07769v3), developed by researchers at MIT. This GAN-based model strives for the reconstruction goal through an adversarial relation between its components -- generators learning to synthesize realistic data, and critics learning to differentiate real and synthetic data.
 
-For the demonstration, we have re-implemented TadGAN in TensorFlow 2, in order to better utilize GPU acceleration and introduce modifications.
+For the demonstration, we have re-implemented TadGAN in TensorFlow 2, in order to better utilize GPU acceleration and introduce modifications. Our implementation is included in this repository.
 
 **[DEMO NOTEBOOK](https://colab.research.google.com/github/pokman/time_series_anomaly_detection/blob/main/demo_tadgan.ipynb)**
 
