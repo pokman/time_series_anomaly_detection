@@ -4,11 +4,11 @@
 
 # Time Series Anomaly Detection via Prediction and Reconstruction
 
-This is a personal project to implement examples of two approaches to **time series anomaly detection**, one using **prediction** methods and one using **reconstruction** methods.
+This is a personal project to implement examples of two approaches to **time series anomaly detection**, one using *prediction* methods and one using *reconstruction* methods.
 
 For each approach, we have selected a particular deep neural network model, and demonstrated the end-to-end procedure of anomaly detection using the [NYC taxi data](https://github.com/numenta/NAB/blob/master/data/realKnownCause/nyc_taxi.csv) from the [Numenta Anomaly Benchmark repository](https://github.com/numenta/NAB).
 
-In both cases, with only a small effort of hyperparameter search, we obtain results with the desired properties of recovering most of the known anomalies (**high recall**) without raising too many false alarms (**acceptable precision**). [A sample result is illustrated at the top of the page.]
+In both cases, with only a small effort of hyperparameter search, we obtain results with the desired properties of recovering most of the known anomalies (*high recall*) without raising too many false alarms (*acceptable precision*). [A sample result is illustrated at the top of the page.]
 
 
 
