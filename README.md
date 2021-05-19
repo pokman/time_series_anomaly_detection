@@ -1,4 +1,4 @@
-![](C:\Users\User\Google Drive\Projects\time_series_anomaly_detection\result_tadgan.png)
+![](result_tadgan.png)
 
 
 
